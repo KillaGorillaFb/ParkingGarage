@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<CustomerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Frankie Barrios</Name>
+  <hoursParked>4</hoursParked>
+  <amtDue>$2.50</amtDue>
+  <timeIn>1:13 PM</timeIn>
+  <timeOut>5:13 PM</timeOut>
+</CustomerData>

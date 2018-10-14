@@ -1,0 +1,10 @@
+C:\Users\barri\source\repos\Exam2\Exam2\bin\Debug\Exam2.exe.config
+C:\Users\barri\source\repos\Exam2\Exam2\bin\Debug\Exam2.exe
+C:\Users\barri\source\repos\Exam2\Exam2\bin\Debug\Exam2.pdb
+C:\Users\barri\source\repos\Exam2\Exam2\obj\Debug\Exam2.csprojAssemblyReference.cache
+C:\Users\barri\source\repos\Exam2\Exam2\obj\Debug\Exam2.GarageForm.resources
+C:\Users\barri\source\repos\Exam2\Exam2\obj\Debug\Exam2.Properties.Resources.resources
+C:\Users\barri\source\repos\Exam2\Exam2\obj\Debug\Exam2.csproj.GenerateResource.cache
+C:\Users\barri\source\repos\Exam2\Exam2\obj\Debug\Exam2.csproj.CoreCompileInputs.cache
+C:\Users\barri\source\repos\Exam2\Exam2\obj\Debug\Exam2.exe
+C:\Users\barri\source\repos\Exam2\Exam2\obj\Debug\Exam2.pdb
